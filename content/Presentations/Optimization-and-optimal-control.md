@@ -9,7 +9,7 @@ aliases:
 description: Seminar slides on optimization theory and optimal control, covering convergence analysis and path planning methods.
 date: 2025-10-01
 ---
-- [Convergence Rate for Ensemble-Based Optimal Control](/pdf/ConvergenceRate_EnsembleOC.pdf)
-- [Model Predictive Control (MIMIC 2025)](/pdf/ModelPredictiveControl_MIMIC2025.pdf)
-- [EBG-RRT Path Planning](/pdf/EBG-RRT_PathPlanning.pdf)
+- [Convergence Rate for Ensemble-Based Optimal Control](ConvergenceRate_EnsembleOC.pdf)
+- [Model Predictive Control (MIMIC 2025)](ModelPredictiveControl_MIMIC2025.pdf)
+- [EBG-RRT Path Planning](EBG-RRT_PathPlanning.pdf)
  

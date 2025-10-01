@@ -29,6 +29,24 @@ Advisor: [Prof. Woocheol Choi](https://sites.google.com/site/wchoiam)
 
 - **National Scholarship**, SKKU, Spring 2020
 
+# Teaching Experiences
+
+## **Teaching Assistant**  
+  - Calculus 1 (in English), Mar – Jun 2025  
+  - Probability (in English), Sep – Dec 2024  
+  - Calculus 1, Mar – Jun 2024  
+  - Calculus 2, Sep – Dec 2023  
+
+## **Tutoring**  
+  - Graph Neural Networks — weekly tutoring sessions for SKKU undergraduates and graduate students (Feb 2024)  
+  - Linear Algebra — weekly sessions for SKKU undergraduates (Mar – May 2023)  
+
+# Conferences & Workshops (Attended)
+
+- **Conference**: [2025 KMS Spring Meeting, KAIST](https://www.kms.or.kr/conference/2025_spring/) (Apr 24–26, 2025)  
+- **Workshop**: [Workshop on Mathematical Finance at Jeju](https://sites.google.com/khu.ac.kr/2024-workshop-mf-jeju/home?authuser=0) (May 31 – Jun 3, 2024)  
+- **School**: [15th KIAS CAC Summer School on Artificial Intelligence & Parallel Computing](https://cac.kias.re.kr/2024/) (Jun 24–28, 2024)  
+- **Conference**: [15th KSIAM Spring Conference, Alpensia, PyeongChang](https://ksiam.org/Conference/ConferenceView.asp?AC=0&CODE=CC20230401&B_CATE=BBC1) (May 19–21, 2023)  
 # Computer Skills
 
 - **Programming Languages:** Python, R, C, C++

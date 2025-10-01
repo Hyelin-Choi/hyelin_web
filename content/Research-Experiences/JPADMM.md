@@ -24,7 +24,7 @@ This work analyzes the convergence of the Jacobi–Proximal ADMM, a parallelizab
 ### Preprint
 [Preprint (arXiv:2503.18601)](https://arxiv.org/abs/2503.18601), *under revision at Computational Optimization and Applications*  
 
-### GitHub
+### Link
 [Github Repository](https://github.com/Hyelin-Choi/Jacobi-Proximal-ADMM)
 
 ### Talks
