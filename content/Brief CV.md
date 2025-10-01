@@ -6,9 +6,10 @@ title: Brief CV
 # Education
 
 **Master's course** in Mathematics, Sungkyunkwan University, September 2023 - Present
+Advisor: [Prof. Woocheol Choi](https://sites.google.com/site/wchoiam)
 
 **B.S.** *Magna Cum Laude* in Mathematics, Sungkyunkwan University, March 2020 - August 2023 (Early Graduation)
-
+Advisor: [Prof. Woocheol Choi](https://sites.google.com/site/wchoiam)
 # Papers
 ## Preprints
 \[2025\]
@@ -27,3 +28,8 @@ title: Brief CV
 - **Academic Scholarship**, SKKU, Fall 2021
 
 - **National Scholarship**, SKKU, Spring 2020
+
+# Computer Skills
+
+- **Programming Languages:** Python, R, C, C++
+- **Mathematical Software:** MATLAB, Mathematica
