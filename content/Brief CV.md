@@ -38,8 +38,9 @@ Advisor: [Prof. Woocheol Choi](https://sites.google.com/site/wchoiam)
   - Calculus 2, Sep – Dec 2023  
 
 ## **Tutoring**  
-  - Graph Neural Networks — weekly tutoring sessions for SKKU undergraduates and graduate students (Feb 2024)  
-  - Linear Algebra — weekly sessions for SKKU undergraduates (Mar – May 2023)  
+- Graph Neural Networks — weekly tutoring sessions for SKKU undergraduates and graduate students (Feb 2024)  
+  [Tutoring Materials](../Presentations/Tutoring)  
+- Linear Algebra — weekly sessions for SKKU undergraduates (Mar – May 2023)  
 
 # Conferences & Workshops (Attended)
 
