@@ -5,7 +5,7 @@ title: Hyelin Choi
 
 Hello! Welcome to my homepage. I am a second-year [mathematics](https://skb.skku.edu/math/index.do) master's student at the [Sungkyunkwan University(SKKU)](https://www.skku.edu/skku/index.do) advised by [Woocheol Choi](https://sites.google.com/site/wchoiam/home?authuser=0). Here is my [CV](CV.pdf).
 
-My research interests are [[Jacobi-Proximal ADMM|Optimization]] and Finance.
+My research interests are [[Jacobi-Proximal ADMM|Optimization]] and its applications to Operations Research and Finance.
 
  ![[profile.png|360]]
 
