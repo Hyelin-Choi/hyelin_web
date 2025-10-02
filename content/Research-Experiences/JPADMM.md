@@ -28,5 +28,5 @@ This work analyzes the convergence of the Jacobi–Proximal ADMM, a parallelizab
 [Github Repository](https://github.com/Hyelin-Choi/Jacobi-Proximal-ADMM)
 
 ### Talks
-- Contributed talk at [KMS Spring Meeting 2025, KAIST](https://www.kms.or.kr/conference/meet/program/session.html?period=89&session_detail=598), April 2025 | [slide](/pdf/JPADMM_LinearConvergence_KMS2025.pdf)  
-- Seminar talk at SKKU, April 2025 | [video](https://www.youtube.com/watch?v=Z3O63VFtVG4)
+- **Contributed talk** at [KMS Spring Meeting 2025, KAIST](https://www.kms.or.kr/conference/meet/program/session.html?period=89&session_detail=598), April 2025 | [slide](/pdf/JPADMM_LinearConvergence_KMS2025.pdf)  
+- **Seminar talk** at SKKU, April 2025 | [video](https://www.youtube.com/watch?v=Z3O63VFtVG4)
