@@ -1,5 +1,6 @@
 ---
 title: Brief CV
+draft: true
 ---
  ![[profile.png|360]]
 
