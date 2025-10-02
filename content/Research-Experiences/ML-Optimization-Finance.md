@@ -14,8 +14,7 @@ date: 2025-10-01
 **Period:** 2024 – 2025  
 
 ### Overview
-Participated in a research seminar on machine learning and optimization methods in fina 
-The rest of your content lives here. You can use **Markdown** here :)nce, covering both practical algorithms and theoretical foundations.
+Participated in a research seminar on machine learning and optimization methods in finance, covering both practical algorithms and theoretical foundations.
 
 ### Contributions
 - Reviewed and presented recent research on machine learning approaches in finance, including reinforcement learning and generative models  
