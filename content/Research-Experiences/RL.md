@@ -24,4 +24,4 @@ Participated in a research seminar on reinforcement learning, focusing on theore
 - Explored applications of reinforcement learning methods to **portfolio optimization** and **factor models** in finance
 
 ### Slides
-[Reinforcement Learning Seminar Materials](../Presentations/Reinforcement-learning)
+[Reinforcement Learning Seminar Materials](../Slides/Reinforcement-learning)

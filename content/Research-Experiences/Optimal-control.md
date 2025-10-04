@@ -23,6 +23,6 @@ Engaged in undergraduate research on optimal control theory and its modern exten
 - Provided **tutoring sessions** on **GNNs** for both undergraduate and graduate students
  
 ### Slides
-- [Optimal Control Seminar Materials](../Presentations/Optimization-and-optimal-control) — Seminar presentations on optimal control topics  
+- [Optimal Control Seminar Materials](../Slides/Optimization-and-optimal-control) — Seminar presentations on optimal control topics  
 - [Model Predictive Control (MIMIC 2025)](ModelPredictiveControl_MIMIC2025.pdf) — Seminar talk at SKKU MIMIC group | [Video](https://www.youtube.com/watch?v=zUQfnHKLDrE)  
-- [GNN Tutoring Materials](../Presentations/Tutoring) — Tutoring slides on Graph Neural Networks for undergraduates and graduate students
+- [GNN Tutoring Materials](../Slides/Tutoring) — Tutoring slides on Graph Neural Networks for undergraduates and graduate students

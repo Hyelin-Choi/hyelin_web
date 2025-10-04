@@ -26,4 +26,4 @@ This project applied **topological data analysis (TDA)** to the study of financi
 - [GitHub Repository](https://github.com/Hyelin-Choi/TDA_finance)
 
 ### Slides
-- [slide](../Presentations/Topological-data-analysis)
+- [slide](../Slides/Topological-data-analysis)
